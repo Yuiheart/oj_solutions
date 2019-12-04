@@ -63,5 +63,6 @@ public class 链表回文 {
             return this.value + " " + appendit;
         }
     }
-
 }
+
+

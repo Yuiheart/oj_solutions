@@ -40,7 +40,7 @@ public class 数组和窗口 {
             System.out.println(sum);
             numOfCases -= 1;
         }
-
-
     }
 }
+
+

@@ -49,5 +49,5 @@ public class 牛的繁殖问题
             System.out.println(fib(ab.nextLong()+1));
         }
     }
-
 }
+

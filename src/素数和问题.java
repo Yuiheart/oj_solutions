@@ -37,3 +37,4 @@ public class 素数和问题 {
         return flag;
     }
 }
+

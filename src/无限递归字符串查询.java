@@ -53,3 +53,5 @@ public class 无限递归字符串查询 {
         return search(pos, newLength, step - 1);
     }
 }
+
+

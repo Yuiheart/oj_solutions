@@ -42,6 +42,5 @@ public class 最小化初始点 {
             return nums[m1][n1] + Math.max(deep(m1 + 1, n1, nums, m, n, min), deep(m1, n1 + 1, nums, m, n, min));
         }
     }
-
-
 }
+

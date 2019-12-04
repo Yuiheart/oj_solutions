@@ -30,3 +30,5 @@ public class 序号乘方 {
         }
     }
 }
+
+

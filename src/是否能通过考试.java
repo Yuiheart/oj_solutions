@@ -63,3 +63,4 @@ public class 是否能通过考试 {
         return  Math.min(result1, result2);
     }
 }
+
